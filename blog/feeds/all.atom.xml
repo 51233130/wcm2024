@@ -1,5 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-02-18T11:00:00+08:00</updated><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-02-18T01:42:14+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-18T11:00:00+08:00</updated><entry><title>WCM 五專第五週課程內容</title><link href="./51233130.html" rel="alternate"></link><published>2024-03-18T11:00:00+08:00</published><updated>2024-03-18T10:08:29+08:00</updated><author><name>51233130</name></author><id>tag:None,2024-03-18:./51233130.html</id><summary type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;第五週將利用與 ChatGPT 的對話, 整理與精密機械科有關的問題詢答紀錄.&lt;/p&gt;
+
+
+&lt;h1&gt;對 ChatGPT 提問&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;未來在精密機械專業尋找實習機會, 需要準備哪些資料?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;簡歷（履歷）： 包括您的個人信息、教育背景、工作經驗（如果有的話）、技能和其他相關資訊。確保簡歷整潔、清晰且易於閱讀。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;學術成績單： 提供您的學校成績單，以顯示您的學術表現。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;推薦信： 如果可能的話，請提供一些推薦信，可以是老師、前雇主或其他對您有深刻印象的人所提供的。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;面試準備： 如果您通過初步篩選，可能會需要進行面試。在面試之前，請準備好您的自我介紹、對實習機會的理解、以及與您的專業相關的問題。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;半導體製造設備： 台灣在半導體製造設備領域具有卓越的技術和製造能力。隨著全球半導體市場的持續增長和技術的不斷進步，台灣的半導體設備廠商將繼續受益於這一趨勢。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;以目前台灣的產業情況而言, 比較有永續的精密機械產業有哪些?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;醫療設備製造： 隨著全球人口老齡化和對醫療保健的需求增加，台灣的醫療設備製造業也呈現出快速增長的趨勢。這包括醫療影像設備、手術器械、檢測設備等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;半導體製造設備： 台灣在半導體製造設備領域具有卓越的技術和製造能力。隨著全球半導體市場的持續增長和技術的不斷進步，台灣的半導體設備廠商將繼續受益於這一趨勢。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;現代年輕人, 應該如何學習運用電腦與網路?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;-學習編程： 學習一些編程基礎知識，如HTML、CSS、JavaScript等。編程能夠培養邏輯思維和問題解決能力，並且在許多領域都非常有用。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;保護個人資訊： 學習如何保護個人資訊和隱私，包括選擇安全的密碼、注意網路釣魚和詐騙等常見詐騙手法。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;學習數位素養： 學習如何辨識假新聞、避免數位疲勞、管理線上時間等數位素養技能。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;以目前 AI 的發展趨勢來看, 會對學校教育有哪些重大影響?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;個性化學習： AI 可以根據每個學生的需求和能力，提供個性化的學習體驗。透過分析大量的數據，AI 可以識別學生的學習風格、弱點和興趣，並提供定制化的學習內容和建議。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;教育研究和政策制定： AI 可以幫助教育研究人員分析大量的數據，從而更好地理解教育現象、發展趨勢和影響因素，為政策制定提供科學依據。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content><category term="五專"></category><category term="Chatgpt"></category><category term="w5"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-18T09:06:11+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 
