@@ -1,7 +1,7 @@
 import fitz
 
 # 開啟PDF文件
-with fitz.open("progit.pdf") as doc:
+with fitz.open("978-1-4842-8751-4") as doc:
     text = ""
     # 提取每一頁的文字並添加到text變數中
     for page in doc:

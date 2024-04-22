@@ -1,0 +1,8 @@
+import fitz # install using: pip install PyMuPDF
+
+with fitz.open("978-1-4842-8751-4.pdf") as doc:
+    text = ""
+    for page in doc:
+        text += page.get_text()
+
+print(text)
