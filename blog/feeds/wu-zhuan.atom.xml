@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 五專</title><link href="./" rel="alternate"></link><link href="./feeds/wu-zhuan.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T08:41:35+08:00</updated><entry><title>WCM w1 and w2</title><link href="./51233130_w1.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-27T08:26:11+08:00</updated><author><name>2024_w1.md</name></author><id>tag:None,2024-05-06:./51233130_w1.html</id><content type="html">&lt;h1&gt;建立個人githubh倉儲&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 五專</title><link href="./" rel="alternate"></link><link href="./feeds/wu-zhuan.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T08:43:43+08:00</updated><entry><title>WCM w1 and w2</title><link href="./51233130_w1.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-27T08:26:11+08:00</updated><author><name>2024_w1.md</name></author><id>tag:None,2024-05-06:./51233130_w1.html</id><content type="html">&lt;h1&gt;建立個人githubh倉儲&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://github.com/51233130/wcm2024"&gt;https://github.com/51233130/wcm2024&lt;/a&gt;個人倉儲網址&lt;/p&gt;
 &lt;h1&gt;登入gmail帳號並使用Catgpt&lt;/h1&gt;</content><category term="五專"></category><category term="w1  w2"></category></entry><entry><title>WCM W12 憤怒鳥</title><link href="./51233130_w12.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-12T15:09:24+08:00</updated><author><name>2024_w12.md</name></author><id>tag:None,2024-05-06:./51233130_w12.html</id><summary type="html">&lt;h1&gt;憤怒鳥&lt;/h1&gt;
 &lt;p&gt;Replit 操作方式:&lt;/p&gt;
@@ -145,7 +145,20 @@ for anchor in anchors:
     if anchor.text.strip() == "2021_odoo_reading.html":
         # 在網頁上顯示 href 資料
         result_list.innerHTML += "&lt;li&gt;{}&lt;/li&gt;".format(anchor.getAttribute('href')) 
-&lt;/script&gt;</content><category term="五專"></category><category term="w7"></category></entry><entry><title>WCM 分組專案</title><link href="./51233130_w10.html" rel="alternate"></link><published>2024-04-22T05:00:00+08:00</published><updated>2024-04-29T07:39:49+08:00</updated><author><name>2024 w10.md</name></author><id>tag:None,2024-04-22:./51233130_w10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/script&gt;</content><category term="五專"></category><category term="w7"></category></entry><entry><title>WCM w8</title><link href="./51233130_w8.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-27T08:43:43+08:00</updated><author><name>2024_w8.md</name></author><id>tag:None,2024-05-06:./51233130_w8.html</id><summary type="html">&lt;p&gt;五專 WCM 第八週課程, 建議學員長期維護個人的履歷網站, 並註冊領英帳號.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;五專 WCM 第八週課程, 建議學員長期維護個人的履歷網站, 並註冊領英帳號.&lt;/p&gt;
+
+
+&lt;h1&gt;領英&lt;/h1&gt;
+&lt;p&gt;有關&lt;a href="https://zh.wikipedia.org/wiki/%E9%A0%98%E8%8B%B1"&gt;領英&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.linkedin.com/signup?_l=zh-tw"&gt;註冊領英帳號&lt;/a&gt; - 請直接以 Gmail 登入, 並設定身分為學生.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.google.com/search?q=Do+you+actually+need+a+website+in+2024"&gt;Do you actually need a website?&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://github.com/mdecycu/cd2024/discussions/5"&gt;人格特質的飬成？&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;網際內容管理課程回顧&lt;/h1&gt;
+&lt;p&gt;學員簡報與自評 - 請製作一個帶有說明字幕的期中報告影片, 放入個人的 wcm2024 影片, 以便在 w9 期中考週進行簡報與自評．&lt;/p&gt;
+&lt;p&gt;申請 Github 帳號: 目的是希望針對網站內容改版的每一個版本都能有效取得&lt;/p&gt;
+&lt;p&gt;申請 Replit 帳號: 可以在網頁瀏覽器或手機 App 修改網站內容&lt;/p&gt;
+&lt;p&gt;學習 Brython 程式: 可以直接在網頁上執行與產品設計有關的數值運算&lt;/p&gt;</content><category term="五專"></category><category term="w8"></category></entry><entry><title>WCM 分組專案</title><link href="./51233130_w10.html" rel="alternate"></link><published>2024-04-22T05:00:00+08:00</published><updated>2024-04-29T07:39:49+08:00</updated><author><name>2024 w10.md</name></author><id>tag:None,2024-04-22:./51233130_w10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;# 分組&lt;/p&gt;
 &lt;ul&gt;
