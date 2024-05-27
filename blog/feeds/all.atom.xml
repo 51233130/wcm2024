@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T08:34:27+08:00</updated><entry><title>WCM w1 and w2</title><link href="./51233130_w1.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-27T08:26:11+08:00</updated><author><name>2024_w1.md</name></author><id>tag:None,2024-05-06:./51233130_w1.html</id><content type="html">&lt;h1&gt;建立個人githubh倉儲&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-27T08:41:35+08:00</updated><entry><title>WCM w1 and w2</title><link href="./51233130_w1.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-27T08:26:11+08:00</updated><author><name>2024_w1.md</name></author><id>tag:None,2024-05-06:./51233130_w1.html</id><content type="html">&lt;h1&gt;建立個人githubh倉儲&lt;/h1&gt;
 &lt;p&gt;&lt;a href="https://github.com/51233130/wcm2024"&gt;https://github.com/51233130/wcm2024&lt;/a&gt;個人倉儲網址&lt;/p&gt;
 &lt;h1&gt;登入gmail帳號並使用Catgpt&lt;/h1&gt;</content><category term="五專"></category><category term="w1  w2"></category></entry><entry><title>WCM W12 憤怒鳥</title><link href="./51233130_w12.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-12T15:09:24+08:00</updated><author><name>2024_w12.md</name></author><id>tag:None,2024-05-06:./51233130_w12.html</id><summary type="html">&lt;h1&gt;憤怒鳥&lt;/h1&gt;
 &lt;p&gt;Replit 操作方式:&lt;/p&gt;
@@ -41,7 +41,111 @@
 &lt;p&gt;目前 get_txt_from_pdf.py 會從 pdf 檔案擷取文字內容並直接列印在 console, 請利用 ChatGPt, 要求將擷取的文字內容存為檔案.&lt;/p&gt;
 &lt;p&gt;請利用上述兩個程式, 以 html 格式整理出上列電子書的英文單字查詢涵義與應用資料.&lt;/p&gt;
 &lt;p&gt;各學員完成上述 Python 程式操作後, 請將過程與結果整理在自己的 wcm2024 課程網站與網誌中.&lt;/p&gt;
-&lt;p&gt;另外, 因為 &lt;a href="https://git-scm.com/book/en/v2"&gt;https://git-scm.com/book/en/v2&lt;/a&gt; 可以直接從 git-scm.com 網站下載, 一旦上傳到 downloads 目錄取出英文單字查詢超文件之後, 可以不將這個 18 MB 的檔案放在倉儲內, 根據&lt;a href="https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file"&gt;這裡&lt;/a&gt;的說明, 可得知該如何操作.&lt;/p&gt;</content><category term="五專"></category><category term="w6"></category></entry><entry><title>WCM 分組專案</title><link href="./51233130_w10.html" rel="alternate"></link><published>2024-04-22T05:00:00+08:00</published><updated>2024-04-29T07:39:49+08:00</updated><author><name>2024 w10.md</name></author><id>tag:None,2024-04-22:./51233130_w10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;p&gt;另外, 因為 &lt;a href="https://git-scm.com/book/en/v2"&gt;https://git-scm.com/book/en/v2&lt;/a&gt; 可以直接從 git-scm.com 網站下載, 一旦上傳到 downloads 目錄取出英文單字查詢超文件之後, 可以不將這個 18 MB 的檔案放在倉儲內, 根據&lt;a href="https://stackoverflow.com/questions/4475457/add-all-files-to-a-commit-except-a-single-file"&gt;這裡&lt;/a&gt;的說明, 可得知該如何操作.&lt;/p&gt;</content><category term="五專"></category><category term="w6"></category></entry><entry><title>WCM w7</title><link href="./51233130_w7.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-27T08:41:35+08:00</updated><author><name>2024_w7.md</name></author><id>tag:None,2024-05-06:./51233130_w7.html</id><summary type="html">&lt;h1&gt;練習利用程式建立單字查詢網頁&lt;/h1&gt;
+&lt;p&gt;wcm2024 5j w7 利用 Python 建立 Javascript 電子書的單字查詢超文件
+利用 &lt;a href="https://mde.tw/wcm2024/downloads/2.txt"&gt;2.txt&lt;/a&gt; 與 &lt;a href="https://mde.tw/wcm2024/downloads/1.txt"&gt;1.txt&lt;/a&gt; Python 程式, 從下列電子書 …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;練習利用程式建立單字查詢網頁&lt;/h1&gt;
+&lt;p&gt;wcm2024 5j w7 利用 Python 建立 Javascript 電子書的單字查詢超文件
+利用 &lt;a href="https://mde.tw/wcm2024/downloads/2.txt"&gt;2.txt&lt;/a&gt; 與 &lt;a href="https://mde.tw/wcm2024/downloads/1.txt"&gt;1.txt&lt;/a&gt; Python 程式, 從下列電子書建立英文單字查詢網頁:&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://link.springer.com/book/10.1007/978-1-4842-8751-4"&gt;2023 Programming for Absolute Beginners - Using the JavaScript Programming Language&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://mde.tw/wcm2024/downloads/words_2023_Programming%20for%20Absolute%20Beginners.html"&gt;單字查詢網頁&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;Brython 程式&lt;/h1&gt;
+&lt;p&gt;首先, 對 ChatGPT 提問: Brython 是甚麼程式語言? 該如何使用?&lt;/p&gt;
+&lt;p&gt;回答:&lt;/p&gt;
+&lt;p&gt;Brython 是一種在瀏覽器中運行的 Python 解譯器。它允許您在網頁上使用 Python 來編寫 Web-based 前端程式，而無需安裝任何套件或外部解譯器。&lt;/p&gt;
+&lt;p&gt;要使用 Brython，您可以按照以下步驟進行：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在您的網頁中引入 Brython 的 JavaScript 程式。就可以透過 CDN 或將文件下載到網頁中。&lt;/li&gt;
+&lt;li&gt;在 HTML 文件中，使用 &lt;code&gt;&amp;lt;script type="text/python"&amp;gt;&lt;/code&gt; 標籤來編寫 Python 程式碼。&lt;/li&gt;
+&lt;li&gt;當網頁加載時，Brython 會自動解譯並執行這些 Python 程式碼，並將結果呈現在網頁上。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;如此就可以在瀏覽器中使用 Python 編寫動態網頁，而無需使用 JavaScript。這對於喜歡 Python 語法的開發者來說是一個很好的選擇。&lt;/p&gt;
+&lt;p&gt;再問: 可以舉一個簡單 Brython 程式範例, 從 1 累加到 10, 然後在網頁中以 html 列出運算結果&lt;/p&gt;
+&lt;p&gt;回答:&lt;/p&gt;
+&lt;pre class="brush: html"&gt;
+&lt;!-- 導入 Brython 程式庫 --&gt;
+&lt;script src="./../cmsimde/static/brython.js"&gt;&lt;/script&gt;
+&lt;script src="./../cmsimde/static/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;!-- 啟動 Brython --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython();
+}
+&lt;/script&gt;
+&lt;h1&gt;累加結果：&lt;/h1&gt;
+&lt;!-- 顯示結果標註 --&gt;
+&lt;ul id="result"&gt;&lt;/ul&gt;
+
+&lt;!-- 在 &lt;script type="text/python"&gt; 標籤中編寫 Python 代碼 --&gt;
+&lt;script type="text/python"&gt;
+from browser import document
+result_list = document.getElementById("result")
+# sum 初始值設為 0
+sum = 0
+init = 1
+upto = 10
+# 利用 for 重複迴圈與變數加法進行累加
+for i in range(init, upto+1):
+    sum = sum + i
+    # skip the first one
+    if i !=1:
+        result_list.innerHTML += "&lt;li&gt;{} + {} = {}&lt;/li&gt;".format(sum-i, i, sum)
+&lt;/script&gt;
+&lt;/pre&gt;
+&lt;!-- 導入 Brython 程式庫 --&gt;
+&lt;script src="./../cmsimde/static/brython.js"&gt;&lt;/script&gt;
+&lt;script src="./../cmsimde/static/brython_stdlib.js"&gt;&lt;/script&gt;
+&lt;!-- 啟動 Brython --&gt;
+&lt;script&gt;
+window.onload=function(){
+brython();
+}
+&lt;/script&gt;
+&lt;h1&gt;累加結果：&lt;/h1&gt;
+&lt;!-- 顯示結果標註 --&gt;
+&lt;ul id="result"&gt;&lt;/ul&gt;
+
+&lt;!-- 在 &lt;script type="text/python"&gt; 標籤中編寫 Python 代碼 --&gt;
+&lt;script type="text/python"&gt;
+from browser import document
+result_list = document.getElementById("result")
+# sum 初始值設為 0
+sum = 0
+init = 1
+upto = 10
+# 利用 for 重複迴圈與變數加法進行累加
+for i in range(init, upto+1):
+    sum = sum + i
+    # skip the first one
+    if i !=1:
+        result_list.innerHTML += "&lt;li&gt;{} + {} = {}&lt;/li&gt;".format(sum-i, i, sum)
+&lt;/script&gt;
+
+&lt;p&gt;請根據上面的 Brython 範例, 寫出能夠從 https://mde.tw/cd2024/content/About.html  取出 anchor 字串為 "2021_odoo_reading.html" 的 href 資料&lt;/p&gt;
+&lt;p&gt;網頁中特定 anchor 的 href 資料：
+ &lt;span id="result2"&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- 在 &lt;script type="text/python"&gt; 標籤中編寫 Python 代碼 --&gt;
+&lt;script type="text/python"&gt;
+from browser import document
+# 從網站讀取超文件資料
+html_content = open("https://mde.tw/cd2024/content/About.html").read()
+# 列出檢查
+#print(html_content)
+# 將 HTML 內容轉換為 DOM 物件
+dom = document.createElement('html')
+dom.innerHTML = html_content
+result_list = document.getElementById("result2")
+
+# 查找所有的 anchor 標籤
+anchors = dom.querySelectorAll('a')
+# 列出檢查
+#print(anchors)
+# 遍歷每個 anchor 標籤
+for anchor in anchors:
+    # 檢查 anchor 文字是否為特定值
+    if anchor.text.strip() == "2021_odoo_reading.html":
+        # 在網頁上顯示 href 資料
+        result_list.innerHTML += "&lt;li&gt;{}&lt;/li&gt;".format(anchor.getAttribute('href')) 
+&lt;/script&gt;</content><category term="五專"></category><category term="w7"></category></entry><entry><title>WCM 分組專案</title><link href="./51233130_w10.html" rel="alternate"></link><published>2024-04-22T05:00:00+08:00</published><updated>2024-04-29T07:39:49+08:00</updated><author><name>2024 w10.md</name></author><id>tag:None,2024-04-22:./51233130_w10.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;# 分組&lt;/p&gt;
 &lt;ul&gt;

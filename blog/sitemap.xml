@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2024-05-27T08:34:37-00:00</lastmod>
+<lastmod>2024-05-27T08:41:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2024-05-27T08:34:37-00:00</lastmod>
+<lastmod>2024-05-27T08:41:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2024-05-27T08:34:37-00:00</lastmod>
+<lastmod>2024-05-27T08:41:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2024-05-27T08:34:37-00:00</lastmod>
+<lastmod>2024-05-27T08:41:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -81,6 +81,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>./51233130_w7.html</loc>
+<lastmod>2024-05-27T08:41:35+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>./51233130_w10.html</loc>
 <lastmod>2024-04-29T07:39:49+08:00</lastmod>
 <changefreq>monthly</changefreq>
@@ -110,7 +117,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/wu-zhuan.html</loc>
-<lastmod>2024-05-27T08:34:27+08:06</lastmod>
+<lastmod>2024-05-27T08:41:35+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -167,6 +174,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./tag/w6.html</loc>
 <lastmod>2024-05-27T08:34:27+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./tag/w7.html</loc>
+<lastmod>2024-05-27T08:41:35+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -251,6 +265,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./author/2024_w6md.html</loc>
 <lastmod>2024-05-27T08:34:27+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/2024_w7md.html</loc>
+<lastmod>2024-05-27T08:41:35+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
