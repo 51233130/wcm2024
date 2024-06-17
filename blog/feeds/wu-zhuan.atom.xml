@@ -1,8 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 五專</title><link href="./" rel="alternate"></link><link href="./feeds/wu-zhuan.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T06:43:12+08:00</updated><entry><title>WCM W12 憤怒鳥</title><link href="./51233130_w18.html" rel="alternate"></link><published>2024-06-17T04:00:00+08:00</published><updated>2024-06-17T06:43:12+08:00</updated><author><name>2024_w18.md</name></author><id>tag:None,2024-06-17:./51233130_w18.html</id><content type="html">&lt;p&gt;# 期末報告影片
+<feed xmlns="http://www.w3.org/2005/Atom"><title>網際內容管理系統 - 五專</title><link href="./" rel="alternate"></link><link href="./feeds/wu-zhuan.atom.xml" rel="self"></link><id>./</id><updated>2024-06-17T06:46:28+08:00</updated><entry><title>WCM W18 期末報告</title><link href="./51233130_w18.html" rel="alternate"></link><published>2024-06-17T04:00:00+08:00</published><updated>2024-06-17T06:46:07+08:00</updated><author><name>2024_w18.md</name></author><id>tag:None,2024-06-17:./51233130_w18.html</id><content type="html">&lt;p&gt;# 期末報告影片
  
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/IcLLViHb8WM?si=qGiAXOLBsYAAvbWm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-&lt;/p&gt;</content><category term="五專"></category><category term="期末報告"></category><category term="w18"></category></entry><entry><title>WCM W13</title><link href="./51233130_w13.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-13T06:58:56+08:00</updated><author><name>2024_w13.md</name></author><id>tag:None,2024-05-06:./51233130_w13.html</id><content type="html">&lt;p&gt;# 猜數字&lt;/p&gt;
+&lt;/p&gt;</content><category term="五專"></category><category term="期末報告"></category><category term="w18"></category></entry><entry><title>WCM W12 憤怒鳥</title><link href="./51233130_w12.html" rel="alternate"></link><published>2024-05-11T04:00:00+08:00</published><updated>2024-06-17T06:46:28+08:00</updated><author><name>2024_w12.md</name></author><id>tag:None,2024-05-11:./51233130_w12.html</id><summary type="html">&lt;h1&gt;憤怒鳥&lt;/h1&gt;
+&lt;p&gt;Replit 操作方式:&lt;/p&gt;
+&lt;p&gt;1.利用 URL = https://github.com/mdecycu/angry-birds-python 並選擇 language 為 Python 後 import 倉儲內容&lt;/p&gt;
+&lt;p&gt;2.Run 設定為 "cd src &amp;amp;&amp;amp; python3 main.py&lt;/p&gt;
+&lt;p&gt;3.在 Shell 中以 pip install -r requirements.txt 安 …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;憤怒鳥&lt;/h1&gt;
+&lt;p&gt;Replit 操作方式:&lt;/p&gt;
+&lt;p&gt;1.利用 URL = https://github.com/mdecycu/angry-birds-python 並選擇 language 為 Python 後 import 倉儲內容&lt;/p&gt;
+&lt;p&gt;2.Run 設定為 "cd src &amp;amp;&amp;amp; python3 main.py&lt;/p&gt;
+&lt;p&gt;3.在 Shell 中以 pip install -r requirements.txt 安裝所需 Python 模組&lt;/p&gt;
+&lt;p&gt;4.按下 Run 執行畫面將出現在 Tools 工具中的 output 頁面.&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KVDFRr0HwvY?si=iUYMsn9GESKyzWMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;# 可攜式系統 &lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FSPyvGz8TO4?si=VzI3HoF3jfKU6ZPf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="angrybird"></category><category term="w12"></category></entry><entry><title>WCM W13</title><link href="./51233130_w13.html" rel="alternate"></link><published>2024-05-06T04:00:00+08:00</published><updated>2024-05-13T06:58:56+08:00</updated><author><name>2024_w13.md</name></author><id>tag:None,2024-05-06:./51233130_w13.html</id><content type="html">&lt;p&gt;# 猜數字&lt;/p&gt;
 &lt;script src="https://gist.github.com/51233130/70cf93f1b96597ccf11b608e84feaf30.js"&gt;&lt;/script&gt;</content><category term="五專"></category><category term="猜數字遊戲"></category><category term="w13"></category></entry><entry><title>WCM w11</title><link href="./51233130_w11.html" rel="alternate"></link><published>2024-05-02T04:00:00+08:00</published><updated>2024-06-03T07:06:08+08:00</updated><author><name>2024_w11.md</name></author><id>tag:None,2024-05-02:./51233130_w11.html</id><summary type="html">&lt;p&gt;網際內容管理第 11 週課程, 說明如何在網頁中加入 Brython 程式應用&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理第 11 週課程, 說明如何在網頁中加入 Brython 程式應用&lt;/p&gt;
 
@@ -95,20 +108,7 @@ def run1():
     #ns = {'__name__':'__main__'}
     #exec(prog, ns)
     # 按下 run 按鈕
-    Ace1.run()</content><category term="五專"></category><category term="w11"></category></entry><entry><title>WCM W12 憤怒鳥</title><link href="./51233130_w12.html" rel="alternate"></link><published>2024-05-02T04:00:00+08:00</published><updated>2024-06-03T07:06:29+08:00</updated><author><name>2024_w12.md</name></author><id>tag:None,2024-05-02:./51233130_w12.html</id><summary type="html">&lt;h1&gt;憤怒鳥&lt;/h1&gt;
-&lt;p&gt;Replit 操作方式:&lt;/p&gt;
-&lt;p&gt;1.利用 URL = https://github.com/mdecycu/angry-birds-python 並選擇 language 為 Python 後 import 倉儲內容&lt;/p&gt;
-&lt;p&gt;2.Run 設定為 "cd src &amp;amp;&amp;amp; python3 main.py&lt;/p&gt;
-&lt;p&gt;3.在 Shell 中以 pip install -r requirements.txt 安 …&lt;/p&gt;</summary><content type="html">&lt;h1&gt;憤怒鳥&lt;/h1&gt;
-&lt;p&gt;Replit 操作方式:&lt;/p&gt;
-&lt;p&gt;1.利用 URL = https://github.com/mdecycu/angry-birds-python 並選擇 language 為 Python 後 import 倉儲內容&lt;/p&gt;
-&lt;p&gt;2.Run 設定為 "cd src &amp;amp;&amp;amp; python3 main.py&lt;/p&gt;
-&lt;p&gt;3.在 Shell 中以 pip install -r requirements.txt 安裝所需 Python 模組&lt;/p&gt;
-&lt;p&gt;4.按下 Run 執行畫面將出現在 Tools 工具中的 output 頁面.&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/KVDFRr0HwvY?si=iUYMsn9GESKyzWMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;# 可攜式系統 &lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/FSPyvGz8TO4?si=VzI3HoF3jfKU6ZPf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;</content><category term="五專"></category><category term="angrybird"></category><category term="w12"></category></entry><entry><title>WCM 分組專案</title><link href="./51233130_w10.html" rel="alternate"></link><published>2024-04-21T05:00:00+08:00</published><updated>2024-06-03T07:05:26+08:00</updated><author><name>2024 w10.md</name></author><id>tag:None,2024-04-21:./51233130_w10.html</id><summary type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
+    Ace1.run()</content><category term="五專"></category><category term="w11"></category></entry><entry><title>WCM 分組專案</title><link href="./51233130_w10.html" rel="alternate"></link><published>2024-04-21T05:00:00+08:00</published><updated>2024-06-03T07:05:26+08:00</updated><author><name>2024 w10.md</name></author><id>tag:None,2024-04-21:./51233130_w10.html</id><summary type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;網際內容管理課程分組專案 - 網頁與 Brython 程式應用&lt;/p&gt;
 
 
